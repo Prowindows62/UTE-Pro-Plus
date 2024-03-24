@@ -18,8 +18,8 @@
   <mp:PhoneIdentity PhoneProductId="51c3f568-9977-4f6f-baf0-12a7e52aac44" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
     
   <Properties>
-    <DisplayName>UltraTextEdit</DisplayName>
-    <PublisherDisplayName>jpb</PublisherDisplayName>
+    <DisplayName>WordPad2</DisplayName>
+    <PublisherDisplayName>jpb, modified by prowindows62</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
